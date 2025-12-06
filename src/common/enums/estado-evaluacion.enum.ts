@@ -1,0 +1,6 @@
+export enum EstadoEvaluacion {
+  PENDIENTE = 'PENDIENTE',
+  EN_PROCESO = 'EN_PROCESO',
+  COMPLETADA = 'COMPLETADA',
+  RECHAZADA = 'RECHAZADA',
+}
